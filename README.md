@@ -26,3 +26,6 @@ A Java console-based application that calculates a student’s total marks, perc
 
 ## Purpose
 This project was created as a first GitHub repository while learning Java fundamentals.
+## Assumptions
+- Each subject is assumed to be out of 100 marks
+- The program handles one student at a time
